@@ -1,1 +1,4 @@
 this is my second file  for bugfix
+this is special file for bugfix 
+cow is animal 
+lion is the woldwild animale
